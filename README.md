@@ -11,4 +11,4 @@ Espaço para disponibilizar materiais de minhas palestras ;)
 
 ## Biohacking
 - Biohacking e Psicologia - BSIDES- SP 2022;
-- Biohacking estamos fazendo isso certo? H2HC 2023 Link: 
+- Biohacking estamos fazendo isso certo? H2HC 2023 Link: https://github.com/Ridd1kulusC0d3r/Palestras/blob/7ddf84b4eee6e47efff81c9450ee117cf2e31116/biohacking/BIohacking%20e%20a%20necessidade%20do%20aprimoramento%20(4).pdf

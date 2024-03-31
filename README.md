@@ -4,7 +4,7 @@ Espaço para disponibilizar materiais de minhas palestras ;)
 ## Cyber
 - 2016 Fundamentos de SI, Faculdade Pitágoras, não disponível;
 - 2023 Carreira em Cybersegurança, Xperts:
-- 2023 Do OSINT ao Humint, estratégias para perfilar o alvo, H2HC, OSINT Village:
+- 2023 Do OSINT ao Humint, estratégias para perfilar o alvo, H2HC, OSINT Village: https://github.com/Ridd1kulusC0d3r/Palestras/blob/53ae2abf226283e1cfc77bc92cda31be9d190a10/cyber/h2hc-%20HUMINT.pdf.pdf
 - 2023 Usando Osint para perfilar alvos, H2HC, village Hacker culture e Life4sec;
   
 ## Psicologia
